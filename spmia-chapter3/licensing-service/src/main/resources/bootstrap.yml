@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: licensingservice # 스프링 클라우드 컨피크 서버의 디렉토리와 이름이 같아야한다.
+  profiles:
+    active:
+      default # 어떤 프로파일을 실행할것인지 지정
+  cloud:
+    config:
+      uri: http://localhost:8888 # 스프링 클라우드 컨피그 서버의 위치
