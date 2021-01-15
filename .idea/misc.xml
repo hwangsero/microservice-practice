@@ -5,6 +5,13 @@
       <list>
         <option value="$PROJECT_DIR$/spmia-chapter2/pom.xml" />
         <option value="$PROJECT_DIR$/spmia-chapter3/pom.xml" />
+        <option value="$PROJECT_DIR$/spmia-chapter4/confsvr/pom.xml" />
+        <option value="$PROJECT_DIR$/spmia-chapter4/eurekasvr/pom.xml" />
+        <option value="$PROJECT_DIR$/spmia-chapter4/pom.xml" />
+        <option value="$PROJECT_DIR$/spmia-chapter5/licensing-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spmia-chapter5/pom.xml" />
+        <option value="$PROJECT_DIR$/spmia-chapter6/zuulsvr/pom.xml" />
+        <option value="$PROJECT_DIR$/spmia-chapter6/pom.xml" />
       </list>
     </option>
   </component>

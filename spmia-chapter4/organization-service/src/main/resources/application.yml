@@ -1,7 +1,7 @@
 
 eureka:
   instance:
-    preferIpAddress: true
+    preferIpAddress: true # 서비스의 호스트이 아닌 IP 주소를 유레카에 등록하도록 지정
   client:
     registerWithEureka: true
     fetchRegistry: true

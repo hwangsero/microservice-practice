@@ -14,7 +14,7 @@ import java.util.List;
 
 
 @SpringBootApplication
-@EnableZuulProxy
+@EnableZuulProxy // 해당 서비스를 주울 서버로 사용한다.
 public class ZuulServerApplication {
 
     @LoadBalanced

@@ -4,10 +4,28 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/006962.iml" filepath="$PROJECT_DIR$/.idea/006962.iml" />
       <module fileurl="file://$PROJECT_DIR$/spmia-chapter3/confsvr/configurationserver.iml" filepath="$PROJECT_DIR$/spmia-chapter3/confsvr/configurationserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spmia-chapter4/confsvr/configurationserver (1).iml" filepath="$PROJECT_DIR$/spmia-chapter4/confsvr/configurationserver (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spmia-chapter5/confsvr/configurationserver (2).iml" filepath="$PROJECT_DIR$/spmia-chapter5/confsvr/configurationserver (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spmia-chapter6/confsvr/configurationserver (3).iml" filepath="$PROJECT_DIR$/spmia-chapter6/confsvr/configurationserver (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spmia-chapter4/eurekasvr/eurekasvr.iml" filepath="$PROJECT_DIR$/spmia-chapter4/eurekasvr/eurekasvr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spmia-chapter5/eurekasvr/eurekasvr (1).iml" filepath="$PROJECT_DIR$/spmia-chapter5/eurekasvr/eurekasvr (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spmia-chapter6/eurekasvr/eurekasvr (2).iml" filepath="$PROJECT_DIR$/spmia-chapter6/eurekasvr/eurekasvr (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/spmia-chapter2/licensing-service/licensing-service.iml" filepath="$PROJECT_DIR$/spmia-chapter2/licensing-service/licensing-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/spmia-chapter3/licensing-service/licensing-service (1).iml" filepath="$PROJECT_DIR$/spmia-chapter3/licensing-service/licensing-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spmia-chapter4/licensing-service/licensing-service (2).iml" filepath="$PROJECT_DIR$/spmia-chapter4/licensing-service/licensing-service (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spmia-chapter5/licensing-service/licensing-service (3).iml" filepath="$PROJECT_DIR$/spmia-chapter5/licensing-service/licensing-service (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spmia-chapter6/licensing-service/licensing-service (4).iml" filepath="$PROJECT_DIR$/spmia-chapter6/licensing-service/licensing-service (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spmia-chapter4/organization-service/organization-service.iml" filepath="$PROJECT_DIR$/spmia-chapter4/organization-service/organization-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spmia-chapter5/organization-service/organization-service (1).iml" filepath="$PROJECT_DIR$/spmia-chapter5/organization-service/organization-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spmia-chapter6/organization-service/organization-service (2).iml" filepath="$PROJECT_DIR$/spmia-chapter6/organization-service/organization-service (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spmia-chapter6/orgservice-new/orgservice-new.iml" filepath="$PROJECT_DIR$/spmia-chapter6/orgservice-new/orgservice-new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spmia-chapter6/specialroutes-service/specialroutesservice.iml" filepath="$PROJECT_DIR$/spmia-chapter6/specialroutes-service/specialroutesservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/spmia-chapter2/tmx-parent-pom.iml" filepath="$PROJECT_DIR$/spmia-chapter2/tmx-parent-pom.iml" />
       <module fileurl="file://$PROJECT_DIR$/spmia-chapter3/tmx-parent-pom (1).iml" filepath="$PROJECT_DIR$/spmia-chapter3/tmx-parent-pom (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spmia-chapter4/tmx-parent-pom (2).iml" filepath="$PROJECT_DIR$/spmia-chapter4/tmx-parent-pom (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spmia-chapter5/tmx-parent-pom (3).iml" filepath="$PROJECT_DIR$/spmia-chapter5/tmx-parent-pom (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spmia-chapter6/tmx-parent-pom (4).iml" filepath="$PROJECT_DIR$/spmia-chapter6/tmx-parent-pom (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spmia-chapter6/zuulsvr/zuulsvr.iml" filepath="$PROJECT_DIR$/spmia-chapter6/zuulsvr/zuulsvr.iml" />
     </modules>
   </component>
 </project>

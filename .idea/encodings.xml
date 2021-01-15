@@ -4,5 +4,20 @@
     <file url="file://$PROJECT_DIR$/spmia-chapter2/licensing-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spmia-chapter3/confsvr/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spmia-chapter3/licensing-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spmia-chapter4/confsvr/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spmia-chapter4/eurekasvr/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spmia-chapter4/licensing-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spmia-chapter4/organization-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spmia-chapter5/confsvr/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spmia-chapter5/eurekasvr/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spmia-chapter5/licensing-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spmia-chapter5/organization-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spmia-chapter6/confsvr/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spmia-chapter6/eurekasvr/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spmia-chapter6/licensing-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spmia-chapter6/organization-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spmia-chapter6/orgservice-new/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spmia-chapter6/specialroutes-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spmia-chapter6/zuulsvr/src/main/java" charset="UTF-8" />
   </component>
 </project>

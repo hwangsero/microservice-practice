@@ -44,7 +44,7 @@ public class LicenseService {
                 .withComment(config.getExampleProperty());
     }
 
-    @HystrixCommand
+    @HystrixCommand // 회로 차단기가 관리하는 메소드
     private Organization getOrganization(String organizationId) {
         return organizationRestClient.getOrganization(organizationId);
     }
@@ -66,10 +66,10 @@ public class LicenseService {
     }
 
     @HystrixCommand(//fallbackMethod = "buildFallbackLicenseList",
-            threadPoolKey = "licenseByOrgThreadPool",
-            threadPoolProperties =
-                    {@HystrixProperty(name = "coreSize",value="30"),
-                     @HystrixProperty(name="maxQueueSize", value="10")},
+            threadPoolKey = "licenseByOrgThreadPool", // 스레드 풀의 고유 이름
+            threadPoolProperties = // 스레드 풀의 동작 정의
+                    {@HystrixProperty(name = "coreSize",value="30"), // 스레드 풀의 스레드 개수
+                     @HystrixProperty(name="maxQueueSize", value="10")}, // 스레드 풀 앞에 배치할 큐와 큐에 넣을 요청 수
             commandProperties={
                      @HystrixProperty(name="circuitBreaker.requestVolumeThreshold", value="10"),
                      @HystrixProperty(name="circuitBreaker.errorThresholdPercentage", value="75"),

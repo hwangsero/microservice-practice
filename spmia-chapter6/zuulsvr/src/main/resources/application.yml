@@ -14,6 +14,7 @@ logging:
       org.springframework.web: WARN
       com.thoughtmechanix: DEBUG
 
+# 유레카와 통신하는 주울 서버 구성
 eureka:
   instance:
     preferIpAddress: true

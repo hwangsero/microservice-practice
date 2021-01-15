@@ -20,6 +20,7 @@ public class OrganizationDiscoveryClient {
 
     public Organization getOrganization(String organizationId) {
         RestTemplate restTemplate = new RestTemplate();
+        // 조직 서비스의 모든 인스턴스 목록 얻기
         List<ServiceInstance> instances = discoveryClient.getInstances("organizationservice");
 
         if (instances.size()==0) return null;
